@@ -18,6 +18,8 @@ Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
+Install all the dependencies with `npm install` to ensure you can test your work as you go with `npm test`.
+
 ## Apply Header, Paragraph, Image and Span Tags
 
 Pharrell isn't quite happy, he needs some help coding the album cover for his
@@ -60,15 +62,15 @@ a moment to [read up on some reference material] to better understand its use.
 Open `index.html` in a separate browser tab to see your progress on the Album
 Cover as you build it.
 
-Run `learn test` to make sure you've met all the deliverables and passed the
+Run `npm test` to make sure you've met all the deliverables and passed the
 tests.
 
 ## Conclusion
 
 A lot of the formatting in this lab is done using CSS, or Cascading Style
-Sheets, a language that defines styling for HTML. Before we can get to more
-elaborate styling, though, it is important to have a strong understanding of
-HTML fundamentals.
+Sheets, a language that defines styling for HTML. We will get to it in the next
+section of this module! Before we can get to more elaborate styling, though, it 
+is important to have a strong understanding of HTML fundamentals. 
 
 In this lab, we've tested that understanding by having you practice applying
 headers, image, and paragraphs. Completing this lab means that you have a solid
